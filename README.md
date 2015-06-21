@@ -1,4 +1,4 @@
-paths2openscad
+paths2cookies
 ==============
 ![paths2openscad](https://cloud.githubusercontent.com/assets/3838734/3856761/e55ecdf2-1efb-11e4-97f8-7c3195fc361d.png)
 
